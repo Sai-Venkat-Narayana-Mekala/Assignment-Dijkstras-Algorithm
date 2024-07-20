@@ -1,5 +1,3 @@
-# Assignment-Dijkstras-Algorithm
-
 # Dijkstra's Algorithm Testing
 
 ## Input
